@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project-react-router/static/css/main.6350d25d.css",
-    "main.js": "/project-react-router/static/js/main.d015a666.js",
+    "main.js": "/project-react-router/static/js/main.1daa1130.js",
     "static/media/sobre_mim_capa.png": "/project-react-router/static/media/sobre_mim_capa.e14cf8593039831a7a7a.png",
     "static/media/erro_404.png": "/project-react-router/static/media/erro_404.0e2bac6e50d6b7a478e7.png",
     "static/media/foto_sobre_mim.jpg": "/project-react-router/static/media/foto_sobre_mim.9995526740ee46cb2cb7.jpg",
@@ -10,10 +10,10 @@
     "static/media/marca_registrada.svg": "/project-react-router/static/media/marca_registrada.fd230562dcd9ba45061e083be6216066.svg",
     "index.html": "/project-react-router/index.html",
     "main.6350d25d.css.map": "/project-react-router/static/css/main.6350d25d.css.map",
-    "main.d015a666.js.map": "/project-react-router/static/js/main.d015a666.js.map"
+    "main.1daa1130.js.map": "/project-react-router/static/js/main.1daa1130.js.map"
   },
   "entrypoints": [
     "static/css/main.6350d25d.css",
-    "static/js/main.d015a666.js"
+    "static/js/main.1daa1130.js"
   ]
 }
